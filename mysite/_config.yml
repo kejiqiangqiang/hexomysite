@@ -80,7 +80,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/kejiqiangqiang/hexomysite
-  branch: 1.0.1
+  branch: v1.0.1
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
   
 #search of site
