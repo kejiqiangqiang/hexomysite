@@ -13,4 +13,4 @@ tags:
 ## 获取项目告警
 
 ## 图片
-![图片](/images/GitWorkFlow.jpg)
+![图片](mysite/images/GitWorkFlow.jpg)
