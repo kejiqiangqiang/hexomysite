@@ -11,3 +11,6 @@ tags:
     3.fgh
 
 ## 获取项目告警
+
+## 图片
+![图片](/images/GitWorkFlow.jpg)
